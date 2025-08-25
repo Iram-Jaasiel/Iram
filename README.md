@@ -1,4 +1,4 @@
-# Iram
+# Repositorio de iram
 primer reporte creado 
 
 ## descripcion
